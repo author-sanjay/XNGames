@@ -16,7 +16,7 @@ export default {
       colors: {
         blue: {
           50: '#dfdff0',
-          70: '#dfdff2',
+          75: '#dfdff2',
           100: '#f0f2fa',
           200: '#010101',
           300: '#47b7dd'
