@@ -2,6 +2,7 @@ import { useState } from "react";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Navbar from "./Components/Navbar";
+import Features from "./Components/Features";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Navbar/>
         <Hero />
         <About />
+        <Features/>
       </main>
     </>
   );
